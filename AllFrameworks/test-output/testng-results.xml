@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-23T15:58:14 EST" name="Default suite" finished-at="2022-02-23T15:58:55 EST" duration-ms="41225">
+    <groups>
+    </groups>
+    <test started-at="2022-02-23T15:58:14 EST" name="Default test" finished-at="2022-02-23T15:58:55 EST" duration-ms="41225">
+      <class name="kdf.Application">
+        <test-method signature="verifyInvalidLogin()[pri:0, instance:kdf.Application@47faa49c]" started-at="2022-02-23T15:58:14 EST" name="verifyInvalidLogin" finished-at="2022-02-23T15:58:55 EST" duration-ms="41188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+      </class> <!-- kdf.Application -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
